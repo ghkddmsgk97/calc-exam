@@ -2,8 +2,8 @@ package calc;
 
 public class Calculator {
     // 더하기
-    public int add(int a, int b) {
-        return a + b;
+    public int add(int a, int c) {
+        return a + c;
     }
 
     // 빼기
